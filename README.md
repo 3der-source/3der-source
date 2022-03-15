@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @3der-source
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  ederfonseca@outlook.com
+- 💻 Hoje trabalho com front-end
+- 🧑‍🎓 Estudando React.js
+- 😎 Pronouns: ele/dele
